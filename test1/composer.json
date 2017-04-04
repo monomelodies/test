@@ -1,0 +1,10 @@
+{
+    "name": "monomelodies/test1",
+    "authors": [
+        {
+            "name": "Marijn Ophorst",
+            "email": "marijn@monomelodies.nl"
+        }
+    ],
+    "require": {}
+}
